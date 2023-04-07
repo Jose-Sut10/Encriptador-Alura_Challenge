@@ -1,0 +1,27 @@
+.contenido__input{
+    width: 50%; 
+    height: 600px;
+}
+
+.text-area{
+    background: #00AAE4;
+    border: none;
+    color: var(--color-azul); /* Color de letras del textarea al escribir*/
+    margin-top: 1rem;
+    text-transform: lowercase;
+    width: 95%;
+    height: 87%;
+}
+
+::placeholder{color: var(--color-azul);} /* Color de letras del textarea al iniciar*/
+
+.text-area{outline: none;} /* Quita los bordes a la hora de dar click dentro del textarea*/
+
+.informacion__imagen{
+    width: 1.5rem;
+}
+
+.informacion__imagen--descripcion{
+    color: #495057;
+    font-size: 2rem;
+}

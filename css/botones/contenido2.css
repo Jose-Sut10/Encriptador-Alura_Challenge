@@ -1,0 +1,13 @@
+.contenido__botones--contenido2{
+    margin-left: 2rem;
+}
+
+.boton__copiar{
+    background-color: #D8DFE8;
+    border:1px solid var(--color-azul);
+    border-radius: 1rem; 
+    color: var(--color-azul);
+    cursor: pointer;
+    width: 12rem;
+    height: 3.5rem;
+}
