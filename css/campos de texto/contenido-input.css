@@ -1,0 +1,21 @@
+.text-area{
+    border: none;
+    color: var(--color-azul); /* Color de letras del textarea al escribir*/
+    margin-top: 1rem;
+    text-transform: lowercase;
+    width: 50%;
+    height: 450px;
+}
+
+::placeholder{color: var(--color-azul);} /* Color de letras del textarea al iniciar*/
+
+.text-area{outline: none;} /* Quita los bordes a la hora de dar click dentro del textarea*/
+
+.informacion__imagen{
+    width: 1.5rem;
+}
+
+.informacion__imagen--descripcion{
+    color: #495057;
+    font-size: 2rem;
+}
