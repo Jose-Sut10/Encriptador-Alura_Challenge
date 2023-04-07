@@ -1,0 +1,11 @@
+.encabezado__contenedor--navegacion{
+    margin-right: .75rem;
+}
+
+.encabezado__navegacion--lista{
+    display: flex;
+}
+
+.navegacion__lista--items{
+    margin-left: 1rem;
+}
