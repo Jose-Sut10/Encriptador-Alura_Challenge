@@ -1,10 +1,11 @@
 .contenido__general{
+    background: #00AAE4;
     padding: 10px 0 20px 0;
 }
 
-.contenido__general--contenedor{
+.contenido__inputYoutput{
     width: 90vw;
     margin: 0 auto;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
