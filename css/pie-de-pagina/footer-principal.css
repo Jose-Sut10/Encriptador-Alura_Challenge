@@ -1,0 +1,11 @@
+.pie__pagina{
+    background: #00AAE4;
+    padding-bottom: 1rem;
+}
+
+.pie__pagina--contenedor{
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}

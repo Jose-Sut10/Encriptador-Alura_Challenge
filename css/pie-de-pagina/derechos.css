@@ -1,0 +1,14 @@
+.pie__pagina--derechos{
+    display: flex;
+    align-items: center;
+}
+
+.pie__pagina--logo{
+    width: 4rem;
+    margin-right: 1rem;
+}
+
+.pie__pagina--descripcion{
+    text-align: center;
+    font-size: 1rem;
+}
