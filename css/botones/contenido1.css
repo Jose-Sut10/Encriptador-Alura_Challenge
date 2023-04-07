@@ -1,0 +1,24 @@
+.contenido__botones--contenido1{
+    width: 60%;
+}
+
+.boton__encriptar{
+    background-color: var(--color-azul);
+    border: 1px solid var(--color-azul);
+    border-radius: 1rem;
+    color: var(--color-blanco);
+    cursor: pointer;
+    height: 3.5rem;
+    width: 14rem;
+}
+
+.boton__desencriptar{
+    background-color: #D8DFE8;
+    border: 1px solid var(--color-azul);
+    border-radius: 1rem;
+    color: var(--color-azul);
+    cursor: pointer;
+    height: 3.5rem;
+    margin-left: 2rem;
+    width: 14rem;
+}
