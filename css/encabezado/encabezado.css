@@ -1,10 +1,17 @@
+*{
+    background: #00AAE4;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
 :root{
     --color-azul: #0A3871;
     --color-blanco: #FFFFFF; 
 }
 
 .encabezado{
-    background: #00AAE4;
     padding: 20px 0;
 }
 

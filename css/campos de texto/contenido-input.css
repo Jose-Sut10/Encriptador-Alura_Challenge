@@ -1,16 +1,10 @@
-.contenido__input{
-    width: 50%;
-    height: 600px;
-}
-
 .text-area{
-    background: #00AAE4;
     border: none;
     color: var(--color-azul); /* Color de letras del textarea al escribir*/
     margin-top: 1rem;
     text-transform: lowercase;
-    width: 900%;
-    height: 85%;
+    width: 50%;
+    height: 450px;
 }
 
 ::placeholder{color: var(--color-azul);} /* Color de letras del textarea al iniciar*/
