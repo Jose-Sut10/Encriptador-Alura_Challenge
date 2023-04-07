@@ -14,7 +14,7 @@
 
 .mensaje__desencriptado{
     /* background: var(--color-blanco); */
-    background-image: url("/contenido/imagenes/gato.png");
+    background-image: url("/imagenes/gato.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 13rem;
