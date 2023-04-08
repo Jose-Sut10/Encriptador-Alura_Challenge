@@ -1,3 +1,10 @@
 .navegacion--lista{
     display: flex;
 }
+
+/* Diseño para tablets */
+@media screen and (max-width: 1024px){
+    .navegacion--lista{
+        display: none;
+    }
+}

@@ -9,3 +9,13 @@
     display: flex;
     justify-content: space-around;
 }
+
+/* Diseño para tablets */
+@media screen and (max-width: 1024px){
+    .pie__pagina--contenedor{
+        justify-content: center;
+    }
+    body{
+        background: #00AAE4;
+    }
+}
