@@ -2,6 +2,7 @@ const textArea = document.querySelector(".text-area");
 const mensaje = document.querySelector(".mensaje__desencriptado");
 const copia = document.querySelector(".boton__copiar");
 copia.style.display = "none"
+// document.getElementById("contenido__mensaje--informacion").style.display = "flex"; 
 
 function validarTexto(){
     let textoEscrito = document.querySelector(".text-area").value;
@@ -82,5 +83,5 @@ function copiar(){
     mensaje.value = "";
     copia.style.display = "none"
     mensaje.style.display = "none";
-    document.getElementById("contenido__mensaje--informacion").style.display = "block"; 
+    document.getElementById("contenido__mensaje--informacion").style.display = "flex"; 
 }
