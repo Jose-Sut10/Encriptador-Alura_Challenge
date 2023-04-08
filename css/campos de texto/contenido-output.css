@@ -1,3 +1,8 @@
+.contenido__mensaje{
+    height: 100%;
+    display: contents;
+}
+
 .contenido__general--output{
     width: 95%;
     height: 95%;
