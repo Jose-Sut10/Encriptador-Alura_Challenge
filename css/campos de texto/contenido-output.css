@@ -1,3 +1,8 @@
+.contenido__general--output{
+    width: 95%;
+    height: 95%;
+}
+
 .contenido__output{
     background-color: var(--color-blanco);
     width: 40%;
@@ -16,16 +21,13 @@
     display: none;
     border-radius: 1rem;
     color: var(--color-azul);
-    /* width: 90%;
-    height: 500px;
-    padding: .7rem; */
 }
 
 .imagen__mensaje{
     width: 15rem;
 }
 
-.contenido__mensaje--informacion{
+#contenido__mensaje--informacion{
     width: 100%;
     height: 100%;
     text-align: center;
