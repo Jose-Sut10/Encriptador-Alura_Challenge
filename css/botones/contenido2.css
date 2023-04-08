@@ -12,3 +12,10 @@
     height: 3.5rem;
     font-size: 1.8rem;
 }
+
+/* Diseño para tablets */
+@media screen and (max-width: 1024px){
+    .boton__copiar{
+        width: 11rem;
+    }
+}

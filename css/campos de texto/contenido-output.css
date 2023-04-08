@@ -62,4 +62,10 @@
     .imagen__mensaje{
         width: 10rem;
     }
+    .mensaje1{
+        font-size: 2.3rem;
+    }
+    .mensaje2{
+        font-size: 1.6rem;
+    }
 }
