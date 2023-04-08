@@ -56,6 +56,10 @@
 @media screen and (max-width: 1024px){
     .contenido__output{
         width: 100%;
-        background: red;
+        height: 400px;
+    }
+
+    .imagen__mensaje{
+        width: 10rem;
     }
 }
