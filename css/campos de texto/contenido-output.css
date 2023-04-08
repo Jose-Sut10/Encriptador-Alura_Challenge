@@ -51,3 +51,11 @@
 .mensaje2{
     font-size: 1.3rem;
 }
+
+/* Diseño para tablets */
+@media screen and (max-width: 1024px){
+    .contenido__output{
+        width: 100%;
+        background: red;
+    }
+}

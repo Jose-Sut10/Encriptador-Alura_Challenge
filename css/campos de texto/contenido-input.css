@@ -27,3 +27,23 @@
     font-size: 1.2rem;
     font-family: var(--alkatra-regular);
 }
+
+/* Diseño para tablets */
+@media screen and (max-width: 1024px){
+    .contenido__input{
+        width: 100%;
+        margin-bottom: 1.5rem;
+    }
+    .text-area{
+        padding: 0 1rem;
+    }
+    .informacion__input{
+        margin-left: 1rem;
+    }
+    .informacion__imagen{
+        width: 1.3rem;
+    }
+    .informacion__imagen--descripcion{
+        font-size: 1.5rem;
+    }
+}
