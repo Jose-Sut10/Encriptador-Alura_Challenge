@@ -19,3 +19,11 @@
         justify-content: center;
     }
 }
+
+/* Diseño para moviles */
+@media screen and (max-width: 768px){
+    .contenido__botones--contenedor{
+        display: flex;
+        flex-direction: column;
+    }
+}
