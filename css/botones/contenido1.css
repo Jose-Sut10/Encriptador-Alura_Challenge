@@ -6,6 +6,7 @@
     cursor: pointer;
     height: 3.5rem;
     width: 14rem;
+    font-size: 1.8rem;
 }
 
 .boton__desencriptar{
@@ -17,4 +18,5 @@
     height: 3.5rem;
     margin-left: 2rem;
     width: 14rem;
+    font-size: 1.8rem;
 }
