@@ -8,3 +8,17 @@
         display: none;
     }
 }
+
+/* Diseño para moviles */
+@media screen and (max-width: 768px){
+    .pie__pagina--redes{
+        margin-top: 0.5rem;
+    }
+    .navegacion--lista{
+        display: flex;
+        justify-content: center;
+    }
+    .lista__links--iconos{
+        width: 2.8rem;
+    }
+}

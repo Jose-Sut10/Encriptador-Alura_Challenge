@@ -19,3 +19,13 @@
         font-size: 1.1rem;
     }
 }
+
+/* Diseño para moviles */
+@media screen and (max-width: 768px){
+    .pie__pagina--logo{
+        display: none;
+    }
+    .pie__pagina--descripcion{
+        font-size: 1rem;
+    }
+}
