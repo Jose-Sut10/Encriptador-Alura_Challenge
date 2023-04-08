@@ -11,3 +11,20 @@
 .encabezado__contenedor--titulo{
     font-size: 1.5rem;
 }
+
+
+/* Diseño para moviles */
+@media screen and (max-width: 768px){
+    .encabezado__contenedor--informacion{
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+    .logo{
+        width: 1.5rem;
+    }
+
+    .encabezado__contenedor--titulo{
+        margin-left: 0;
+    }
+}

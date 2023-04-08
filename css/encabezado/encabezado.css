@@ -24,3 +24,14 @@
     justify-content: space-between;
     font-family: var(--alkatra-regular);
 }
+
+
+/* Diseño para moviles */
+@media screen and (max-width: 768px){
+    .encabezado{
+        padding: 10px 0;
+    }
+    .encabezado__contenedor{
+    display: block;
+    }   
+}
