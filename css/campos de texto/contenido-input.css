@@ -48,3 +48,16 @@
         font-size: 1.5rem;
     }
 }
+
+/* Diseño para moviles */
+@media screen and (max-width: 768px){
+    .contenido__input{
+        margin: 0;
+    }
+    .informacion__imagen{
+        width: 1rem;
+    }
+    .informacion__imagen--descripcion{
+        font-size: 1.3rem;
+    }
+}
