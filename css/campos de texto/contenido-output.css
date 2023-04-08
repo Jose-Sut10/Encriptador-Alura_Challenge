@@ -74,3 +74,16 @@
         font-size: 1.6rem;
     }
 }
+
+/* Diseño para moviles */
+@media screen and (max-width: 768px){
+    .imagen__mensaje{
+        width: 8rem;
+    }
+    .mensaje1{
+        font-size: 1.5rem;
+    }
+    .mensaje2{
+        font-size: 1.3rem;
+    }
+}
