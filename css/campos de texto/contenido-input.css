@@ -3,14 +3,15 @@
 }
 
 .text-area{
-    background: #00AAE4;
+    background: transparent;
     border: none;
     color: var(--color-azul); /* Color de letras del textarea al escribir*/
     margin-top: 1rem;
     text-transform: lowercase;
     width: 95%;
     height: 87%;
-    font-size: 2.2rem;
+    font-size: 1.8rem;
+    font-family: var(--alkatra-regular);
 }
 
 ::placeholder{color: var(--color-azul);} /* Color de letras del textarea al iniciar*/
@@ -18,10 +19,11 @@
 .text-area{outline: none;} /* Quita los bordes a la hora de dar click dentro del textarea*/
 
 .informacion__imagen{
-    width: 1.5rem;
+    width: 1rem;
 }
 
 .informacion__imagen--descripcion{
     color: #495057;
-    font-size: 2rem;
+    font-size: 1.2rem;
+    font-family: var(--alkatra-regular);
 }

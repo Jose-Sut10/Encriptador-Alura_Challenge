@@ -9,6 +9,7 @@
 :root{
     --color-azul: #0A3871;
     --color-blanco: #FFFFFF; 
+    --alkatra-regular: 'Alkatra'; 
 }
 
 .encabezado{
@@ -21,4 +22,5 @@
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    font-family: var(--alkatra-regular);
 }

@@ -23,14 +23,15 @@
     color: var(--color-azul);
     width: 100%;
     height: 100%;
+    font-size: 1.8rem;
+    font-family: var(--alkatra-regular);
 }
 
 .imagen__mensaje{
-    width: 15rem;
+    width: 12rem;
 }
 
 #contenido__mensaje--informacion{
-    width: 100%;
     height: 100%;
     text-align: center;
     background: var(--color-blanco);
@@ -38,12 +39,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    font-family: var(--alkatra-regular);
 }
 
 .mensaje1{
     font-size: 2rem;
+    color: #572364;
+    margin: 15px 0 5px 0;
 }
 
 .mensaje2{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
