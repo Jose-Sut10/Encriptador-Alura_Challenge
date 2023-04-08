@@ -19,3 +19,14 @@
         width: 11rem;
     }
 }
+
+/* Diseño para moviles */
+@media screen and (max-width: 768px){
+    .contenido__botones--contenido2{
+        margin: 0;
+    }
+    .boton__copiar{
+        margin-top: 20px;
+        width: 100%;
+    }
+}
