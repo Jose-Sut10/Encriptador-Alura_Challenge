@@ -79,7 +79,8 @@ function desencriptar(stringDesencriptada){
 
 function copiar(){
     mensaje.select();
-    navigator.clipboard.writeText(mensaje.value)
+    navigator.clipboard.writeText(mensaje.value);
+    document.execCommand('copy');
     mensaje.value = "";
     copia.style.display = "none"
     mensaje.style.display = "none";
